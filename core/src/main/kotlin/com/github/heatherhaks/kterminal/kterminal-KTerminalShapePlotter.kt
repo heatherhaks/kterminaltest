@@ -1,4 +1,4 @@
-package com.heatherhaks.kterminal
+package com.github.heatherhaks.kterminal.kterminal
 
 import kotlin.math.abs
 
