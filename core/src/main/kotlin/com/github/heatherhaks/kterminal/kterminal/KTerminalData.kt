@@ -1,11 +1,11 @@
-package com.heatherhaks.kterminal
+package com.github.heatherhaks.kterminal.kterminal
 
 import com.badlogic.gdx.graphics.Color
-import com.heatherhaks.kterminal.KTerminalShapePlotter.Companion.plotCircle
-import com.heatherhaks.kterminal.KTerminalShapePlotter.Companion.plotEllipse
-import com.heatherhaks.kterminal.KTerminalShapePlotter.Companion.plotLine
-import com.heatherhaks.kterminal.KTerminalShapePlotter.Companion.plotRect
-import com.heatherhaks.kterminal.KTerminalShapePlotter.Companion.plotTriangle
+import com.github.heatherhaks.kterminal.kterminal.KTerminalShapePlotter.Companion.plotCircle
+import com.github.heatherhaks.kterminal.kterminal.KTerminalShapePlotter.Companion.plotEllipse
+import com.github.heatherhaks.kterminal.kterminal.KTerminalShapePlotter.Companion.plotLine
+import com.github.heatherhaks.kterminal.kterminal.KTerminalShapePlotter.Companion.plotRect
+import com.github.heatherhaks.kterminal.kterminal.KTerminalShapePlotter.Companion.plotTriangle
 import ktx.graphics.copy
 
 @Suppress("unused", "MemberVisibilityCanBePrivate")
