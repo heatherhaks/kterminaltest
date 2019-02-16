@@ -8,6 +8,5 @@ dependencies {
   compile "io.github.libktx:ktx-log:$ktxLogVersion"
   compile "io.github.libktx:ktx-collections:$ktxCollectionsVersion"
   compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion"
-  implementation 'com.github.heatherhaks:kterminaltest:release'
 }
         
