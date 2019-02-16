@@ -41,7 +41,7 @@ ext {
   appName = 'kterminal'
 }
 
-group = 'com.heatherhaks'
+group = 'com.github.heatherhaks'
 
 publishing {
   publications {
