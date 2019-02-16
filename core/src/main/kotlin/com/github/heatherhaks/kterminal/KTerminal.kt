@@ -1,6 +1,8 @@
-package com.heatherhaks.kterminal
+package com.github.heatherhaks.kterminal
 
 import com.badlogic.gdx.graphics.g2d.SpriteBatch
+import com.github.heatherhaks.kterminal.kterminal.KTerminalData
+import com.github.heatherhaks.kterminal.kterminal.KTerminalRenderer
 import ktx.app.KtxGame
 import ktx.app.KtxScreen
 import ktx.app.clearScreen
