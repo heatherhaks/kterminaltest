@@ -1,4 +1,4 @@
-package com.heatherhaks.kterminal
+package com.github.heatherhaks.kterminal.kterminal
 
 import com.badlogic.gdx.graphics.Color
 
